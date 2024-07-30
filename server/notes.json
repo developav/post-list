@@ -1,0 +1,65 @@
+{
+  "acc3bc15-04f8-4a17-b2c6-6998f0dfe823": {
+    "id": "acc3bc15-04f8-4a17-b2c6-6998f0dfe823",
+    "title": "Вероятно, вы используете del версии >7.0.0. С последнего релиза этот плагин перешёл на ESM. Чтобы исправить ошибку, импортируйте плагин таким образом:",
+    "text": "Как исправить ошибку с gulp?",
+    "userId": "59559c03-9310-4b5c-93d3-e08836afd81d",
+    "createdAt": 1711719772575
+  },
+  "9a0e2b91-8ec1-4d42-b4c1-9fbbb46bc869": {
+    "id": "9a0e2b91-8ec1-4d42-b4c1-9fbbb46bc869",
+    "title": "If the only way your component ever changes is when the props.color or the state.count variable changes, you could have shouldComponentUpdate check that:",
+    "text": "ExamplesExamples",
+    "userId": "59559c03-9310-4b5c-93d3-e08836afd81d",
+    "createdAt": 1711972510302
+  },
+  "e7e2f8ac-014b-4941-98b3-fcf58767289d": {
+    "id": "e7e2f8ac-014b-4941-98b3-fcf58767289d",
+    "title": "оператор социальной деятельности Группы АФК «Система», в состав которой входит НИИМЭ, приглашает к участию в благотворительном спортивном проекте – онлайн-марафоне «Шагай #ЗаЛес»!Онлайн-марафон «Шагай #ЗаЛес» продлится с 1 по 30 апреля. Всё, что нужно для участия – желание двигаться и включенный шагомер на телефоне, смарт-часах или фитнес-браслете.  Теперь каждый шаг – это шаг со смыслом!",
+    "text": "Благотворительный фонд «Система»",
+    "userId": "59559c03-9310-4b5c-93d3-e08836afd81d",
+    "createdAt": 1711979520978
+  },
+  "974d731b-9d58-4b63-acca-47f1323ad8e7": {
+    "id": "974d731b-9d58-4b63-acca-47f1323ad8e7",
+    "title": "Адрес для получения данных: /api/notes — адрес для отправления запроса на создание заметки.",
+    "text": "Советы и рекомендации",
+    "userId": "0ed2f62c-51ed-4bc3-9ccc-37bc43e2e7fa",
+    "createdAt": 1712125165882
+  },
+  "820b21c5-d300-4801-a592-5f69066f927f": {
+    "id": "820b21c5-d300-4801-a592-5f69066f927f",
+    "title": "ive to us the Minimal Example to be tested.\n\nYou already checked if your function is being called? Try to put some console.log inside logout(), it smells Binding to methods of React class issue.",
+    "text": "How to logout in react",
+    "userId": "0ed2f62c-51ed-4bc3-9ccc-37bc43e2e7fa",
+    "createdAt": 1712146097540
+  },
+  "ac32b1ca-c6fb-426c-b144-37b0dd17f08a": {
+    "id": "ac32b1ca-c6fb-426c-b144-37b0dd17f08a",
+    "title": "In React class components, the render method itself shouldn’t cause side effects. It would be too early — we typically want to perform our effects after React has updated the DOM.\n\nThis is why in React classes, we put side effects into componentDidMount and componentDidUpdate. Coming back to our example, here is a React counter class component that updates the document title right after React makes changes to the DOM:",
+    "text": "Example Using Classes",
+    "userId": "0ed2f62c-51ed-4bc3-9ccc-37bc43e2e7fa",
+    "createdAt": 1712147054755
+  },
+  "e90e1f70-b987-4c2c-b72a-c9c81a00018d": {
+    "id": "e90e1f70-b987-4c2c-b72a-c9c81a00018d",
+    "title": "An error occurs because the type ‘string’ does not have any properties in common with the type ‘properties<string | number, string & {}>’.\n\nThis means that the ‘string’ type does not satisfy the requirement of having any shared properties with the ‘properties<string | number, string & {}>’ type.\n\nTo better understand this, let’s consider an example:",
+    "text": "Type ‘string’ has no properties in common with type ‘properties‘",
+    "userId": "0ed2f62c-51ed-4bc3-9ccc-37bc43e2e7fa",
+    "createdAt": 1712217504842
+  },
+  "ae16c757-943a-4c29-b726-0347b9de519f": {
+    "id": "ae16c757-943a-4c29-b726-0347b9de519f",
+    "title": "sdfdsfdsf",
+    "text": "sdfdfssdffsdsdfsdf",
+    "userId": "0ed2f62c-51ed-4bc3-9ccc-37bc43e2e7fa",
+    "createdAt": 1712219780561
+  },
+  "85608714-7034-4eab-a84a-d449f8391ef4": {
+    "id": "85608714-7034-4eab-a84a-d449f8391ef4",
+    "title": "erwrwewerwerewrweewrwer",
+    "text": "кабель ewrwwerewrwerr",
+    "userId": "300dd476-d14d-4c65-9c8b-cb3231fb6c4d",
+    "createdAt": 1722329115014
+  }
+}

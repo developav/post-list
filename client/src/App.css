@@ -1,0 +1,15 @@
+.app {
+  height: 100%;
+  background: url("./assets/note.svg") space;
+  background-size: 24px;
+  color: var(--text-primary);
+}
+.app__container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 20px 40px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
